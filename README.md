@@ -1,2 +1,2 @@
 # exams-and-certifications
-This folders contains exam results and finance related certifications I have earned.
+This folder contains exam results and finance related certificates I have earned.
